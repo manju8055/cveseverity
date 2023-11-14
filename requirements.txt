@@ -3,3 +3,10 @@ numpy
 pandas
 pydeck
 streamlit
+torch
+matplotlib
+transformers
+tqdm
+nltk
+pyparsing
+scikit-learn
